@@ -2,7 +2,7 @@
 
 
 - I'm Marco Pernisco, a Master's student of Computer Science at the University of Pisa.
-- Currently, I'm working as Web Developer at Apuliasoft.
+
 
 
 - 📫 How to reach me: pernisco43@gmail.com
