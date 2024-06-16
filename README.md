@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- I'm Marco Pernisco, a Master's student of Computer Science at the University of Pisa.
+- I'm Marco Pernisco, Master's student of Computer Science at the University of Pisa.
 
 
 
